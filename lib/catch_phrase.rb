@@ -1,4 +1,4 @@
 def catch_phrase
-  puts #phrase 
+  puts #{catch_phrase}
 end
 catch_phrase 
